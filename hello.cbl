@@ -1,7 +1,7 @@
       ********************************************
       * COBOL PROGRAM USING DATATYPES            *
       * DATE : 09.01.2022                        *
-      * AUTHOR : Chatrughan Prasad                     *
+      * AUTHOR : Chatrughan Prasad               *
       ********************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. UNSTRNG.
